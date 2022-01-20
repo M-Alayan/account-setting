@@ -1,0 +1,142 @@
+body {
+  background-color: #eeee;
+}
+.head-title {
+  margin-left: 75px;
+}
+.main-box {
+  border: 1px solid black;
+  margin-left: 75px;
+  height: 650px;
+  width: 1050px;
+  background-color: white;
+}
+.main-menuitem-box {
+  width: 300px;
+  float: left;
+}
+.a-decoration{
+    text-decoration: none;
+    color: black;
+}
+
+.menuitem-box {
+  padding: 25px;
+  border-bottom: 1px #e6ecf3 solid;
+}
+.menuitem-box:hover {
+  background-color: #f0f0f0;
+}
+
+/*-----------------------------*/
+
+.input-information-box {
+  margin-left: 25px;
+  float: left;
+  margin-top: 25px;
+}
+
+.img-box {
+  float: left;
+}
+.upload-information-box {
+  float: left;
+  margin-left: 25px;
+  margin-top: 10px;
+}
+.upload-btn-box {
+  float: left;
+}
+.reset-btn-box {
+  float: left;
+  margin-left: 10px;
+}
+.upload-description-box {
+  clear: left;
+  font-size: 10px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+.blue-btn-style {
+  color: #ffffff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background-color: #428bca;
+  border-color: #357ebd;
+  padding: 10px;
+}
+.reset-btn-style {
+  color: #ffffff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background-color: #d9534f;
+  border-color: #d43f3a;
+  padding: 10px;
+}
+.blue-btn-style:hover {
+  background-color: #3276b1;
+  border-color: #285e8e;
+}
+/*-----------*/
+.personal-information-box {
+  clear: left;
+  padding-top: 10px;
+}
+
+.input-txt-label {
+  margin-top: 10px;
+}
+.input-txt {
+  margin-top: 5px;
+}
+.email-confirmed {
+  width: 500px;
+  height: 50px;
+  background-color: #fff3cd;
+  margin-top: 10px;
+  padding: 15px 0px 15px 10px;
+}
+.input-txt-style {
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  color: #555555;
+  width: 500px;
+  height: 25px;
+}
+
+.input-txt-style:focus {
+  border-color: #66afe9;
+  outline: 0;
+}
+
+.save-cancel-btn-box {
+  float: right;
+  margin-top: 10px;
+}
+
+.cancel-btn-style {
+  color: #333333;
+  background-color: #ffffff;
+  border-color: #cccccc;
+
+  border-radius: 4px;
+  padding: 9px;
+}
+
+.Contact-box {
+  margin-top: 30px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.activity-box {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.chb-box {
+  margin-top: 10px;
+  width: 500px;
+}
+.application-box {
+  margin-top: 40px;
+}
